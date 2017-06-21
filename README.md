@@ -1,5 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 =======================================
+
 This project generate tidy data from the original dataset: Human Activity Recognition Using Smartphones Dataset (Version 1.0).
 
 The orginal dataset is obtained from: 
@@ -11,6 +12,7 @@ The full description about the original dataset can be obtained from:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 =======================================
+
 The Github repo contains the following files:
 
 --"README.md":explains the analysis files
